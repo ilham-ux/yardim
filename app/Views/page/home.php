@@ -76,7 +76,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="/img/amico.png" alt="First slide" width="600" height="600">
+                            <img class="d-block w-100" src="/img/cuate.svg" alt="First slide" width="600" height="600">
                             <div class="carousel-caption d-none d-md-block">
                                 <h5>...</h5>
                                 <p>...</p>
@@ -86,20 +86,23 @@
 
 
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="/img/amico7.png" alt="Second slide" width="600" height="600">
+                            <img class="d-block w-100" src="/img/amico.svg" alt="Second slide" width="600" height="600">
+                            <div class="carousel-caption d-none d-md-block">
+                                <h5>...</h5>
+                                <p>...</p>
+                                <a class="btn btn-primary btn-xl js-scroll-trigger" href="/page/contact/">Our Client</a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+
+                            <img class="d-block w-100" src="/img/amico-3.svg" alt="Third slide" width="600" height="600">
+
                             <div class="carousel-caption d-none d-md-block">
                                 <h5></h5>
                                 <p>...</p>
                                 <a class="btn btn-primary btn-xl js-scroll-trigger" href="/page/contact/">Our Client</a>
                             </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img class="d-block w-100" src="/img/adc.png" alt="Third slide" width="600" height="600">
-                            <div class="carousel-caption d-none d-md-block">
-                                <h5>...</h5>
-                                <p>...</p>
-                                <a class="btn btn-primary btn-xl js-scroll-trigger" href="/page/contact/">Our Client</a>
-                            </div>
+
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -125,17 +128,20 @@
         <div class="row justify-content-center">
             <div class="card-deck">
                 <div class="card" style="width: 18rem;  padding: 10px; margin: 40px;">
-                    <img src="/img/adc.png" class="img-fluid" alt="Responsive image">
+                    <img src="/img/cuate.svg" class="img-fluid" alt="Responsive image">
                     <div class="card-body">
                         <h5 class="text-left mt-0 text-primary font-weight-bold">Backend Developer</h5>
                         <h6 class="h6 mb-2 text-dark"> Suka duka menjadi Backend Developer untuk Fresh graduate</h6>
-                        <a href="/page/blog/" type="button" class="card-link card-center text-secondary font-weight-bold">Readmore</a>
+
+                        <a href="/page/blog/" type="button-sm" class="card-link card-center text-secondary font-weight-bold">Readmore</a>
+
+
                     </div>
                 </div>
             </div>
             <div class="card-deck">
                 <div class="card" style=" width: 18rem; padding: 10px; margin: 40px;">
-                    <img src="/img/cuate.jpg" style="height:15 rem;" class="img-fluid" alt="Responsive image">
+                    <img src="/img/amico.svg" style="height:15 rem;" class="img-fluid" alt="Responsive image">
                     <div class="card-body">
                         <h5 class="text-left mt-0 font-weight-bold text-primary">UI/UX Designer</h5>
                         <h6 class="h6 mb-2 text-dark"> Tips Menjadi UI/UX designer untuk pemula</h6>
@@ -145,7 +151,7 @@
             </div>
             <div class="card-deck">
                 <div class="card" style="width: 18rem; padding: 10px; margin: 40px;">
-                    <img src="/img/amico.png" class="img-fluid" alt="Responsive image">
+                    <img src="/img/amico-3.svg" class="img-fluid" alt="Responsive image">
                     <div class="card-body">
                         <h5 class="text-left mt-0 font-weight-bold text-primary">Frontend Developer</h5>
                         <h6 class="h6 mb-2 text-dark"> Menjadi Frontend Proffesioanal Kamu Siap? </h6>
@@ -156,7 +162,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="mt-2">
-                <a class="btn btn-primary btn-xl js-scroll-trigger" href="/page/contact/">Our Blog</a>
+                <a class="btn btn-primary btn-xl js-scroll-trigger" href="/page/blog/">Our Blog</a>
             </div>
         </div>
     </div>

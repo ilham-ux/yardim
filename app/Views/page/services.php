@@ -95,8 +95,16 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="mt-2">
-                <a class="btn btn-secondary btn-xl js-scroll-trigger" href="/page/services/">Our Service</a>
+            <div class="col-lg-12 text-center">
+                <div class="mt-2">
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#"> <i class='fas fa-angle-left' style='font-size:24px'></i></a>
+                    <a class="btn btn-secondary font-weight-bold btn-sm js-scroll-trigger" href="#">1</a>
+                    <a class="btn btn-primary font-weight-bold btn-sm js-scroll-trigger" href="#">2</a>
+                    <a class="btn btn-secondary font-weight-bold btn-sm js-scroll-trigger" href="#">3</a>
+                    <a class="btn btn-secondary font-weight-bold btn-sm js-scroll-trigger" href="#">4</a>
+                    <a class="btn btn-secondary font-weight-bold btn-sm js-scroll-trigger" href="#">5</a>
+                    <a class="btn btn-primary btn-xl js-scroll-trigger" href="#"> <i class='fas fa-angle-right' style='font-size:24px'></i></a>
+                </div>
             </div>
         </div>
     </div>

@@ -10,6 +10,7 @@
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/page/contact">Contact</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/page/career">Career</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/page/blog">Blog</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#"> <i class="fa fa-search"></i></a></li>
             </ul>
             </ul>
         </div>

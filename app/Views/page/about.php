@@ -18,11 +18,11 @@
         <div class="row justify-content-center">
             <div class="card-deck">
                 <div class="card" style="width: 18rem; padding: 10px; margin: 40px;">
-                    <img src="/img/pp.jpg" class="img-fluid" alt="Responsive image">
+                    <img src="/img/ilham.svg" class="img-fluid" alt="Responsive image">
                     <div class="card-body">
-                        <h4 class="text-left mt-0 font-weight-bold">Aria Marga</h4>
+                        <h4 class="text-left mt-0 font-weight-bold">M Ilham Makarim</h4>
                         <h6 class="h5 mb-0 text-primary"> Founder Yardim</h6>
-                        <p class="card-text text-left">Jangan lupa saling membantu dengan yang membutuhkan</p>
+                        <p class="card-text text-left">Mending bodoh sementara daripada bodoh selamanya</p>
                     </div>
                 </div>
             </div>
@@ -31,9 +31,9 @@
                 <div class="card" style="width: 18rem; padding: 10px; margin: 40px;">
                     <img src="/img/123.jpg" class="img-fluid" alt="Responsive image">
                     <div class="card-body">
-                        <h4 class="text-left mt-0 font-weight-bold">M Ilham Makarim</h4>
+                        <h4 class="text-left mt-0 font-weight-bold">Hutama Dewangga M</h4>
                         <h6 class="h5 mb-0 text-primary"> Co-Founder Yardim</h6>
-                        <p class="card-text text-left">Mending bodoh sementara daripada bodoh selamanya</p>
+                        <p class="card-text text-left">Jangan lupa saling membantu dengan yang membutuhkan</p>
                     </div>
                 </div>
             </div>
